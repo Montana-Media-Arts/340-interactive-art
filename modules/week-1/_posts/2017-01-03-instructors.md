@@ -1,5 +1,5 @@
 ---
-title: Course Introduction
+title: Instructors
 module: 1
 toc: true
 topic: Instructor Information

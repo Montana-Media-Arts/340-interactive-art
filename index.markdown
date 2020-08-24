@@ -4,11 +4,14 @@ published: true
 ---
 
 
-_Introduction to the Language and Practice of Sonic Art (MART245/330)_, offered by the [School of Visual and Media Arts within the University of Montana](https://www.umt.edu/svma/) introduces students to the field of sonic art. This course is intended as a foundation course to create shared terminology, skill sets, aesthetics, and techniques for students to utilize as they take additional sonic art, sound, or audio courses within the School of Visual and Media Arts (SVMA) or larger College of the Arts and Media (CAM). This course includes the study of notable examples in sound art, music, intermedia, and installation. Starting with the birth of electricity, Futurism, and Dada, students will examine the practices and innovations that led to the most current ideas about Sonic Art, and from here develop contemporary analytical methods for exploring Sonic Art. Additionally, students will apply this knowledge to the creation of their own sonic art works. This latter aim will be accomplished through technical study and use of modern tools, such as Digital Audio Workstations (DAWs), sound monitors, microphones, and signal processing.
+_Principles of Interactive Art (MART340.50)_, offered by the [School of Visual and Media Arts within the University of Montana](https://www.umt.edu/svma/) explores the theory and technique of interactive art.
+
+What is interactivity? What does it mean to create meaningful interactive experiences? In this hands-on course, students learn how to create interactive works and environments. We talk about what it means to create an interactive experience for general participants. Scale, space, and time are explored with reference to the body, while creating cybernetic systems for real-time and time-based interaction. Software, electronics, and physical computing are discussed, with the goal of students' creating physical projects. A variety of input and output mechanisms, networking, and best practices will be covered in lecture. Class discussions will cover readings about interactive art/music, design, space, and installation. Students are free to explore their own ideas through the lens of this course.
+
+This course will include a mix of reading, discussion, interactive development, and projects.
 
 This site serves as both a supplement to in-person sections of this course as well as a fully asynchronous, online course.
 
-This considered the foundation course for any students wanting to proceed further with sonic art and audio studies within SVMA.
 
 <br />
 
