@@ -1,7 +1,7 @@
 ---
 title: Instructor Information
 permalink: /:title/
-toc: false
+toc: true
 topic: Instructor
 ---
 
@@ -11,7 +11,7 @@ topic: Instructor
 
 Michael Musick built and maintains this course. Please contact Dr. Musick with any problems.
 
-- E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu?subject=330%20Question)
+- E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu?subject=340%20Question)
 - Office: [McGill Hall, 232](https://www.google.com/maps/place/McGill+Hall,+32+Campus+Dr,+Missoula,+MT+59812/@46.8619179,-113.9857145,16.91z/data=!3m1!5s0x535dcc33c1f50273:0xb43516d74c13fb70!4m5!3m4!1s0x535dcc33c3d4cbd5:0xd77cd4f46bdf5b89!8m2!3d46.8624266!4d-113.9836088)
 - [Teaching Website](https://michaelmusick.github.io/teaching)
 
@@ -27,3 +27,44 @@ Due to the ingoing Pandemic, I will not be able to hold in-person office hours. 
 <!-- Calendly inline widget end -->
 
 - General Office Hour Reservation Link [calendly.com/michael-musick](https://calendly.com/michael-musick) - Please select a meeting time from availability via the Calendly web service.
+
+
+
+## Teaching Assistant - Tina and Charlie
+
+We will have two Teaching Assistants to assist you throughout this semester. As with my information, you can always get there info and contact details from the above ["Instructors"]({{site.baseurl}}/instructors/) tab.
+
+If you are unable to solve problems on your own or through the course "issues forum" (more to come on that later), you should e-mail one of our TAs for help.
+
+### Tina Mahagamage
+
+Tina is an MFA student who can help you with 3D design and development, visual-based issues/concerns, and as we look at TouchDesigner, she will serve to assist in its similarities to other interactive development environments.
+
+[kristina.mahagamage@umconnect.umt.edu](mailto:kristina.mahagamage@umconnect.umt.edu?subject=340%20Question)
+
+Generally available for help;
+
+- Fridays; 2-4pm
+
+> # Bio
+>
+> Tina is a Digital Media Artist whose specialty is 3D design and development. Tina also has skills with virtual world creation and interactivity using Unity or Unreal Engine 4. Tina graduated from Otis College of Art and Design with a degree in Digital Media and an emphasis on 3D design and virtual reality development with a minor in creative writing.
+>
+
+### Charlie Apple
+
+Charlie is an MFA student in his second year of student with the department. Charlie is a musician also focused in how interactive technologies and art can augment music. He will serve particularily well for students having technical problems with TouchDesigner, needing feedback on sound/audio, and with interactive issues.
+
+[charlie.apple@umontana.edu](mailto:charlie.apple@umontana.edu?subject=340%20Question)
+
+Generally available for help;
+
+- Fridays; 10am-12pm
+
+
+> # Bio
+>
+> Charlie Apple is a multimedia artist, music producer and designer based in Missoula, MT.  While earning his BA in Media Arts at the University of Montana, he produced multiple albums and experiential live shows along with providing original scores for dance and theatre.  His current research is focused on data visualization, Experimental Film and virtual live performance.
+>
+>
+> [charlieapplemusic.com](www.charlieapplemusic.com)

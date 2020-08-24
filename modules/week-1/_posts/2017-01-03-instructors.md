@@ -43,11 +43,48 @@ For anyone wanting to setup an appointment immediately, please feel free to setu
 
 
 
-<!--
-## Teaching Assistant - TBA
+## Teaching Assistant - Tina and Charlie
 
-We will have a Teaching Assistant. When this person contact is available, I will email the class. I will also post their information in the ["Instructors"]({{site.baseurl}}/instructors/) tab.
+We will have two Teaching Assistants to assist you throughout this semester. As with my information, you can always get there info and contact details from the above ["Instructors"]({{site.baseurl}}/instructors/) tab.
 
-If you are unable to solve problems on your own or through the course "issues forum" (more to come on that later), you should e-mail the TA for help.
--->
+If you are unable to solve problems on your own or through the course "issues forum" (more to come on that later), you should e-mail one of our TAs for help.
+
+### Tina Mahagamage
+
+Tina is an MFA student who can help you with 3D design and development, visual-based issues/concerns, and as we look at TouchDesigner, she will serve to assist in its similarities to other interactive development environments.
+
+[kristina.mahagamage@umconnect.umt.edu](mailto:kristina.mahagamage@umconnect.umt.edu?subject=340%20Question)
+
+Generally available for help;
+
+- Fridays; 2-4pm
+
+> # Bio
+>
+> Tina is a Digital Media Artist whose specialty is 3D design and development. Tina also has skills with virtual world creation and interactivity using Unity or Unreal Engine 4. Tina graduated from Otis College of Art and Design with a degree in Digital Media and an emphasis on 3D design and virtual reality development with a minor in creative writing.
+>
+> ![TA Tina M.](../imgs/tina.jpg "TA Tina M.")
+
+
+### Charlie Apple
+
+Charlie is an MFA student in his second year of student with the department. Charlie is a musician also focused in how interactive technologies and art can augment music. He will serve particularily well for students having technical problems with TouchDesigner, needing feedback on sound/audio, and with interactive issues.
+
+[charlie.apple@umontana.edu](mailto:charlie.apple@umontana.edu?subject=340%20Question)
+
+Generally available for help;
+
+- Fridays; 10am-12pm
+
+
+> # Bio
+>
+> Charlie Apple is a multimedia artist, music producer and designer based in Missoula, MT.  While earning his BA in Media Arts at the University of Montana, he produced multiple albums and experiential live shows along with providing original scores for dance and theatre.  His current research is focused on data visualization, Experimental Film and virtual live performance.
+>
+>
+> [charlieapplemusic.com](www.charlieapplemusic.com)
+
+
+
+
 <!-- video -->

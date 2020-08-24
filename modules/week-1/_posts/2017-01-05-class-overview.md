@@ -32,9 +32,9 @@ This week is a chance for you to get familiarize yourself with tools on your com
 
 This course will _mostly_ run as weekly modules.
 
-When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. You homework will always be due by 11:59 PM on the Monday of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
+When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. You homework will always be due by 11:59 PM on the Tuesday of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
 
-For example, this module is opening on Monday, January 13th. Therefore, you have through next Monday, January 20th to complete the module. Likewise, your homework is due Saturday by 11:59 PM.
+For example, this module is opening on Tuesday, August 25th. Therefore, you have through next Tuesday, September 1st to complete the module. Likewise, your homework is due Tuesday by 11:59 PM.
 
 
 ## Homework
@@ -47,28 +47,48 @@ Most homework assignments will be submitted to a course discussion forum on Mood
 
 
 
+## Your Organization
+
+I would encourage you to create a directory (folder) on your local machine, within your cloud-based, [Box-sync](http://www.umt.edu/it/support/box/) or [Microsoft OneDrive](https://umt.teamdynamix.com/TDClient/2032/Portal/KB/ArticleDet?ID=45894) directory (folder).
+
+> **_{ Note: }_**
+>
+> As a University of Montana Student, you have access to two cloud-based storage solutions. You receive 1TB of storage with both [Box](http://www.umt.edu/it/support/box/) and [Microsoft Office 365's OneDrive](https://umt.teamdynamix.com/TDClient/2032/Portal/KB/ArticleDet?ID=45894).
+>
+> Both of these tools allow you to download an application that creates a local directory (folder) that automatically syncs its contents to the cloud. By storing your work for this class in there, you are;
+> - Less likely to experience data loss
+> - Will have all of your data available anywhere you may need, so long as you have an internet connection.
+>
+> I would highly encourage you to use these one of these tools for all of your UM work.
+
+
+
+
+
 ## Getting Help
 
 When you have problems in this course, you have a number of solutions available to assist you in solving them. The following list is the order I would suggest you follow for problem solving.
 
 1. Google the problem.
     - A critical skill in creative technology and media art is learning to problem solve. Part of this involves learning how to form a good google query. Your first go to for help should always be google.
-2. Post a message to the Course Forum in Moodle.
+2. Post a discussion to the [**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=1656989).
 <!--
 [Course Forum in Moodle](https://discord.gg/nbVCKwX)
     - Discord is like a massive chat where everyone can talk to one another in real time and help each other out with issues or just chat.
--->
 3. Post to the [course issues forum](https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-examples/issues).
     - In a couple pages, you will follow along with a short tutorial that will help you signup for GitHub, then star and follow the "course repository". Part of this repository is an "issues forum" where you can post questions and problems you are having. These "issues" will be e-mailed to you, and you can then respond to them.
     - The advantage to the GitHub issues forum is its advanced system for including formatted code. This will help with problem solving.
-4. Get help from [Michael Cassens]({{site.baseurl}}/instructors/#instructor-prof-michael-cassens)
-    - If you have a problem, or need help that no one can offer, please contact Michael Cassens.
-    - One way to get a hold of me is to swing by my weekly office hours. These are posted (and updated) under my [office hours section]({{site.baseurl}}/instructors/#office-hours). This is another way is to email me.
-    - If you are a distance student or cannot make one of those times, please email me. (I will check my email multiple times a day)
-        - [michael.cassens@umontana.edu](mailto:michael.cassens@umontana.edu?subject=441%20Question)
+-->
+3. Get help from our Graduate Teaching Assistants, [Charlie Apple - charlie.apple@umontana.edu](mailto:charlie.apple@umontana.edu?subject=340%20Questions) and/or [Tina Mahagamage - kristina.mahagamage@umconnect.umt.edu](mailto:kristina.mahagamage@umconnect.umt.edu?subject=340%20Question)
+4. Get help from the professor [Michael Musick]({{site.baseurl}}/instructors/)
+    - If you have a problem, or need help that no one can offer, please contact Michael Musick.
+    - One way to get a hold of me is to schedule an zoom, office hours appointment with me via [Calendly]({{site.baseurl}}/instructors/#Office-Hours).
+    - You may also email me. (I will check my email at least once a day)
+        - [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu?subject=340%20Question)
 
 <br />
 
 
 #### { NOTE: }
+
 A quick list of these links is available from the ["Help"]({{site.baseurl}}/help/) menubar tab above.
