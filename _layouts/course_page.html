@@ -56,7 +56,7 @@ layout: base
             {% endif %}
 
             {% if page.toc != false %}
-            <div class="toc">{% include toc.html html=content %}</div>
+            <div class="toc">{% include toc.html html=content h_max=3 %}</div>
             {% endif %}
 
             {{ content }}
