@@ -69,14 +69,14 @@ As we get going this week, I want you to read the following article;
   - [Available on Moodle for download](https://moodle.umt.edu/pluginfile.php/2164312/mod_resource/content/0/The%20art%20of%20interaction.pdf)
   - If logged into the library, it is directly available from Taylor and Francis Online at: [https://www.tandfonline.com/doi/abs/10.1080/14626268.2010.556347](https://www.tandfonline.com/doi/abs/10.1080/14626268.2010.556347)
 
-When reading the above article, please pay particular attention to the discussions of the role of "interaction" as well as how the focus of the art changes to participant engagement. 
+When reading the above article, please pay particular attention to the discussions of the role of "interaction" as well as how the focus of the art changes to participant engagement.
 
 
 
 
 
 <div class="ref">
-<h2>References and Resources</h2>
+<h4>References and Resources</h4>
 
 The above content was adapted from:
 

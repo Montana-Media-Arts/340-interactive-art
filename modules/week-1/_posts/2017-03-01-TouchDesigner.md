@@ -31,3 +31,5 @@ After downloading TouchDesigner, you will need to register for an account with D
 **{ _note_ }:** Follow the install and registration instructions from the Derivative website:
 
 - [https://docs.derivative.ca/Getting_Started_With_TouchDesigner](https://docs.derivative.ca/Getting_Started_With_TouchDesigner)
+
+You are finished with the install if you can open TouchDesigner without a license request popping up. 
