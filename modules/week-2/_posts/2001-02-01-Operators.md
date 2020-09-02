@@ -5,3 +5,5 @@ jotted: false
 toc: true
 topic: Getting Further Into TouchDesigner Operators
 ---
+
+**_More coming soon_**
