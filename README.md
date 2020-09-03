@@ -1,21 +1,21 @@
-# MART 220 - Creative Coding 2 | Content Website
+# MART 340 - Interactive Art 1 | Content Website
 
-This is the web-based version of Creative Coding 2 (MART 220) at the School of Media Arts, University of Montana.
-
-This course focuses on media integration, interactivity, and foundation coding.
+This is the web-based version of Interactive Art 1 (MART 340.50) at the School of Visual and Media Arts, University of Montana.
 
 
 
-- [Creative Coding Website](https://montana-media-arts.github.io/220-creative-coding2-Spring2020-course/modules/week-11/overview)
+
+
+- [Interactive 1 Website](https://montana-media-arts.github.io/340-interactive-art)
 
 
 ### Updated By:
 
-- Professor Michael Cassens
-- E-Mail: [michael.cassens@umontana.edu](mailto:michael.cassens@umontana.edu).
-- Office: McGill Hall, 230.
+- Professor Michael Musick
+- E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
+- Office: McGill Hall, 232.
 
 
 ### Updated
 
-This course was last updated: 2020-3-13
+This course was last updated: Sept. 1, 2020
