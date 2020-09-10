@@ -1,9 +1,10 @@
 ---
 title: Conclusions
-module: 1
+module: 3
+toc: false
+topic: Conclusions
 ---
 
-# Week 1 Conclusions
 
 That is it for Week 1. I hope you are excited for this course and everything we are going to learn this semester.
 
@@ -19,8 +20,10 @@ If you have not noticed yet, active module dates are posted up above, along with
 
 As a gentle reminder, you homework is due by {{ site.data.dates[1][1] }}.
 
+<!--
 # Synchronous Zoom Session (optional)
 
 I will hold a Zoom session to go over all of this same material, on Thursday @ 11:00am. I will send out information about this session closer to that time Thursday.
 
 _As a reminder, this is an optional session. It will not cover any additional material beyond what is present in this Week 1 module._
+-->
