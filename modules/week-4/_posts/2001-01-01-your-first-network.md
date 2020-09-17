@@ -104,7 +104,7 @@ You should then select the `Blur` operator.
 
 ### Blur
 
-![Example of adding another operator](../imgs/addBlur.gif "Example of adding another operator")As you might expect, the [`Blur`]() operator _blurs_ the image. Please open the "parameters window" and explore how the parameters effect the resulting webcam data.
+As you might expect, the [`Blur`]() operator _blurs_ the image. Please open the "parameters window" and explore how the parameters effect the resulting webcam data.
 
 **{ NOTE: }** _Notice how the background of the network shows you the changes you are applying in real-time.
 
