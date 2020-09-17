@@ -136,4 +136,10 @@ The `composite` operator will accept multiple TOP operator connections. You can 
 
 ![Showing the width of the composite operator inlet](../imgs/multiInput.png "Showing the width of the composite operator inlet")
 
-Connect the outlet 
+Connect the outlet of both the `blur1` and `edge1` operators to the inlet of the `comp1` operator. Also, insure that the outlet of the `comp1` operator is connected to the inlet of the `null1` operator.
+
+![Example of connecting the operators to the composite operator](../imgs/compositeConnection.gif "Example of connecting the operators to the composite operator")
+
+In the `comp1` operators parameter window, change the `Operation` type parameter to try different compositing algorithms.
+
+![Changing the compositing operation type](../imgs/comp-types.gif "Changing the compositing operation type")
