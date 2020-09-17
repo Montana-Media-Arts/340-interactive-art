@@ -9,8 +9,8 @@ topic: Your First TouchDesigner Network<br>A Basic WebCam Filter
 This week is hopefully short and easy for you all. I want you to make a basic webcam filter in TouchDesigner. The following video will walk you through;
 
 1. Setting Up a Project
-2. The `null` operator
-3. The `videoDeviceIn` operator
+2. The **Null** operator
+3. The **Video Device In** operator
 4. Viewing your work behind the network
 5. Adding TOP's to alter the signal
 6. Viewing your work as a separate panel
@@ -41,25 +41,33 @@ The following image shows this hierarchy and naming pattern.
 
 ## 2. Your First Operator
 
-Now that you are saved up, and ready to create, the first operator we are going to do add is a `null`.
+Now that you are saved up, and ready to create, the first operator we are going to do add is a **Null**.
 
-To do this, either double click in the workspace, or hit the 'tab' kay. This will bring up the "OP Create Dialog". There you can either start to type `null` to help you find it, or just click the `null` operator. You will then see an empty box, which can be placed in your network, by choosing a location with your mouse and 'clicking'.
+To do this, either double click in the workspace, or hit the 'tab' kay. This will bring up the "OP Create Dialog". There you can either start to type "null" to help you find it, or just click the **Null** operator. You will then see an empty box, which can be placed in your network, by choosing a location with your mouse and 'clicking'.
 
 ![Example of adding a 'null' operator](../imgs/null-add.gif "Example of adding a 'null' operator")
 
-The [`null` TOP operator](https://docs.derivative.ca/index.php?title=Null_TOP) "has no effect on the image". This operator, is one you will use extensively, and it allows you to pass or represent instances of networks. Essentially, this is a saving point or bookmark, where you can effect things upstream (to the left of it) without having to reattach or reference the network downstream (to the right of it).
+The [**Null** TOP operator](https://docs.derivative.ca/index.php?title=Null_TOP) "has no effect on the image". This operator, is one you will use extensively, and it allows you to pass or represent instances of networks. Essentially, this is a saving point or bookmark, where you can effect things upstream (to the left of it) without having to reattach or reference the network downstream (to the right of it).
 
 ## 3. `Video Device In`
 
-Next, open the OP Create Dialog pane again and this time create a `Video Device In` operator. You should place this operator to the left of the `null`.
+Next, open the OP Create Dialog pane again and this time create a **Video Device In** operator. You should place this operator to the left of the `null1`.
 
 ![Example of adding Video Device In op](../imgs/videoIn.gif "Example of adding Video Device In op")
+
+> **{ NOTE: }** When referring to an operator type, I will write it with Title Case and refer to the operator type name. As an example **Video Device In**.
+>
+> After an instance of an operator is created, I will typically then refer to the named instance. The name of an operator instance is by default, all lower case, without spaces, and includes an instance number.
+>
+> After we create instances of the **Null** operator and **Video Device In** operators, the named instances are shown in the lower-left corner of each operator. These are `videodevin1` and `null1`, respectively.
+>
+> ![Example of operator instance names](../imgs/opInstanceName.png "Example of operator instance names")
 
 After adding this operator, you should open the operators' parameter window and insure that the correct "Device" (in this case, webcam) for your computer is selected.
 
 ![Select the appropriate video device](../imgs/videoDeviceSelect.png "Select the appropriate video device")
 
-If you have selected the appropriate webcam, then you should immediately see a preview for the webcam within the `video Device In` operator. You will also likely see a "yellow warning triangle" ontop of the operator.
+If you have selected the appropriate webcam, then you should immediately see a preview for the webcam within the `videodevin1` operator. You will also likely see a "yellow warning triangle" on top of the operator.
 
 ![Video Device In example, with warning being pulled up.](../imgs/videoAndWarning.gif "Video Device In example, with warning being pulled up.")
 
@@ -98,29 +106,29 @@ Time to have fun! Let's add a few more TOP operators to effect the processing of
 
 Right click the connect wire between the `videodevin1` operator and the `null1` operator. This should pull up a menu, where you can select the "Insert Operator" option.
 
-You should then select the `Blur` operator.
+You should then select the **Blur** operator.
 
 ![Example of adding another operator](../imgs/addBlur.gif "Example of adding another operator")
 
 ### Blur
 
-As you might expect, the [`Blur`]() operator _blurs_ the image. Please open the "parameters window" and explore how the parameters effect the resulting webcam data.
+As you might expect, the [**Blur**]() operator _blurs_ the image. Please open the "parameters window" and explore how the parameters effect the resulting webcam data.
 
 **{ NOTE: }** _Notice how the background of the network shows you the changes you are applying in real-time.
 
 #### Try Edge Instead
 
-Now, let's replace the `blur1` operator in the network with an `edge` operator.
+Now, let's replace the `blur1` operator in the network with an **Edge** operator.
 
-> The TD Wiki states that "The [`Edge`](https://docs.derivative.ca/index.php?title=Edge_TOP) operator finds edges in an image and highlights them. For each pixel, it looks at the values at neighboring pixels, and where differences are greater than a threshold, the output's value is higher."
+> The TD Wiki states that "The [**Edge**](https://docs.derivative.ca/index.php?title=Edge_TOP) operator finds edges in an image and highlights them. For each pixel, it looks at the values at neighboring pixels, and where differences are greater than a threshold, the output's value is higher."
 
 To replace the operator;
 
-1. open the "OP Create Dialog" window, select the `Edge` operator, then place it below the `blur1` operator
+1. open the "OP Create Dialog" window, select the **Edge** operator, then place it below the `blur1` operator
 2. Connect the outlet of the `videodevin1` operator to the inlet of the `edge1` operator
 3. Then connect the outlet of the `edge1` operator to the inlet of the `null1` operator.
 
-You should see the preview video change to now show edges of your camera data. Again, please feel free to play with the `edge` operator parameters to get a sense of the possibilities of the `Edge` operator.
+You should see the preview video change to now show edges of your camera data. Again, please feel free to play with the `edge1` operator parameters to get a sense of the possibilities of the **Edge** operator.
 
 ![Replace the blur operator with an edge operator](../imgs/edgeAdd.gif "Replace the blur operator with an edge operator")
 
@@ -128,11 +136,11 @@ You should see the preview video change to now show edges of your camera data. A
 
 This is awesome, but obviously, you may find yourself wanting to mix or composite together multiple TOP operators or effects. To do this, we will need an operator capable of compositing data.
 
-Next, let's add a [`Composite`](https://docs.derivative.ca/index.php?title=Composite_TOP) operator. To insert the operator, click the connection wire between the `blur1` operator and the `null1` operator. Then find and select the composite operator.
+Next, let's add a [**Composite**](https://docs.derivative.ca/index.php?title=Composite_TOP) operator. To insert the operator, click the connection wire between the `blur1` operator and the `null1` operator. Then find and select the composite operator.
 
-As you may imagine, the `Composite` TOP operator will composite together, or blend, the images of multiple input operators.
+As you may imagine, the **Composite** TOP operator will composite together, or blend, the images of multiple input operators.
 
-The `composite` operator will accept multiple TOP operator connections. You can visually know this by how the inlet is much wider than the inlet for the single input `blur` operator.
+The **Composite** operator will accept multiple TOP operator connections. You can visually know this by how the inlet is much wider than the inlet for the single input `blur` operator.
 
 ![Showing the width of the composite operator inlet](../imgs/multiInput.png "Showing the width of the composite operator inlet")
 
