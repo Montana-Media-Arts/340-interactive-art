@@ -1,11 +1,9 @@
 ---
 title: Conclusions
-module: XX
+module: 4
 toc: false
 topic: Conclusions
 ---
 
 
-## Next Week
-
-Next week
+more coming soon
