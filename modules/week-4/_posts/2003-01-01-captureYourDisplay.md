@@ -12,6 +12,8 @@ We suggest you use the now widely popular and ubiquitous [OBS](https://obsprojec
 
 > **{ NOTE: }** If you have another program or method for recording your computers screen that you prefer, please feel free to utilize it instead. We are offering this as a solution to those of you who have not done this before.
 
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VVGLYxcBYfg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ## Install OBS
 
 To get started, download the appropriate version of OBS from their website for your computer's operating system.
