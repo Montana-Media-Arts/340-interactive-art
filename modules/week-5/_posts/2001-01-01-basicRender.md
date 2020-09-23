@@ -2,11 +2,11 @@
 title: Basic Render Network
 module: 5
 jotted: false
-toc: true
+toc: false
 topic: A Basic Render Network Setup
 ---
 
-When working in environments such as TouchDesigner (or Max/MSP, Isadora, Cinema4D, etc.) we need to be able to setup, understand, and work with rendering environments. That is the primary goal of this week.
+When working in environments such as TouchDesigner (or Max/MSP, Isadora, Cinema4D, etc.) we need to be able to setup, understand, and work with rendering environments. You got an introduction to this in the LinkedIn course, I want to slow this process down one more time, and have you work through the following written tutorial, to insure you are feeling comfortable on this process.
 
 To get started on this journey, I want you to read and follow along with Matthew Ragan's excellent overview of Rendering with TouchDesigner.
 
@@ -16,4 +16,4 @@ To get started on this journey, I want you to read and follow along with Matthew
 >
 > You will come across much of his work while learning and working in TouchDesigner.
 >
-> Ragan currently works as Director of Software for a the [MSG Sphere](https://msgsphere.com/) project within Madison Square Garden Ventures to develop large immersive venues for real-time experiences and events.  
+> Ragan currently works as Director of Software for a the [MSG Sphere](https://msgsphere.com/) project within Madison Square Garden Ventures to develop large immersive venues for real-time experiences and events.
