@@ -16,4 +16,4 @@ You will likely need to go through a few steps to get registered, logged in, and
 
 - [www.linkedin.com/learning/learning-touchdesigner](https://www.linkedin.com/learning/learning-touchdesigner)
 
-Please work through the first 3 chapters. 
+Please work through the first 3 chapters.
