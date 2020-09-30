@@ -10,7 +10,7 @@ Another facility you will want is the ability to record videos from TouchDesigne
 
 To capture a recording from you TouchDesigner network we need to add another operator.
 
-## 1. Add **_Movie File In_** Operator
+## 1. Add **_Movie File Out_** Operator
 
 Add a **Movie File Out** operator to your network. Then connect the outlet of the `null1` operator to the input of the resulting `moviefileout1` operator.
 
