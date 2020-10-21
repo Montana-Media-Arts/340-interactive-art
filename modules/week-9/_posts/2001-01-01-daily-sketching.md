@@ -46,8 +46,8 @@ Sure, after some amount of time you will want to change the topic, idea, or ques
 
 Please also read Zach's writing's on his two years of sketching.
 
-- [Daily Sketches in 2016. - by zach lieberman | Medium](https://medium.com/@zachlieberman/daily-sketches-2016-28586d8f008e)
-- [Daily sketches in 2017. - by zach lieberman | Medium](https://medium.com/@zachlieberman/daily-sketches-in-2017-1b4234b0615d)
+- [Daily Sketches in 2016. - by zach lieberman in Medium](https://medium.com/@zachlieberman/daily-sketches-2016-28586d8f008e)
+- [Daily sketches in 2017. - by zach lieberman in Medium](https://medium.com/@zachlieberman/daily-sketches-in-2017-1b4234b0615d)
 
 
 ## The ONLY Rule is work
@@ -60,7 +60,7 @@ Please read:
 
 ![Corita's rules for artists](../imgs/corita_rules_lectureinprogress.jpg "Corita's rules for artists")
 
-> The rules are:
+> **Ten Rules for Teachers and Students**
 >
 > RULE ONE: Find a place you trust, and then try trusting it for a while.
 >
@@ -74,7 +74,7 @@ Please read:
 >
 > RULE SIX: Nothing is a mistake. There's no win and no fail, there's only make.
 >
-> RULE SEVEN: The only rule is work. If you work it will lead to something. It's the people who do all of the work all of the time who eventually catch on to things.
+> RULE SEVEN: **THE ONLY RULE IS WORK.** If you work it will lead to something. It's the people who do all of the work all of the time who eventually catch on to things.
 >
 > RULE EIGHT: Don’t try to create and analyze at the same time. They're different processes.
 >
@@ -84,6 +84,14 @@ Please read:
 >
 > HINTS: Always be around. Come or go to everything. Always go to classes. Read anything you can get your hands on. Look at movies carefully, often. Save everything. It might come in handy later.
 
-As a note, [John Cage](https://improvisedlife.com/2018/08/01/10-enduring-rules-creative-life-sister-corita-kent-john-cage/) would appropriate the rules for his own studio and changes the last rule to "X qualities".
+As a note, [John Cage](https://improvisedlife.com/2018/08/01/10-enduring-rules-creative-life-sister-corita-kent-john-cage/) would appropriate the rules for his own studio and changes the last rule to "_X qualities_".
 
-![John Cage's Rules](../imgs/10-Rules-Sister-Corita-Kent-and-John-Cage.jpg "")
+![John Cage's Rules](../imgs/10-Rules-Sister-Corita-Kent-and-John-Cage.jpg)
+
+
+## More on Daily Sketching Practices
+
+**_{ TODO: }_** Please read;
+
+- [Developing a Daily Practice: Generative Art in TouchDesigner — Simon Alexander-Adams](https://www.simonaa.media/tutorials/daily-practice)
+	- This is to read about a younger artist working in TouchDesigner with a daily sketching practice.
