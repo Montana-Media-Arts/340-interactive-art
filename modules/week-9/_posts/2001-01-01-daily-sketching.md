@@ -96,4 +96,4 @@ As a note, [John Cage](https://improvisedlife.com/2018/08/01/10-enduring-rules-c
 - [Developing a Daily Practice: Generative Art in TouchDesigner — Simon Alexander-Adams](https://www.simonaa.media/tutorials/daily-practice)
 	- This is to read about a younger artist working in TouchDesigner with a daily sketching practice.
 - [Creativity Is Hustle: Make Something Every Day - The Atlantic](https://www.theatlantic.com/video/archive/2011/10/creativity-is-hustle-make-something-every-day/246377/#slide15)
-	- This is an interview with Beeple, who has insprired a number of artists to explore their own daily sketching practice. 
+	- This is an interview with Beeple, who has inspired a number of artists to explore their own daily sketching practice. 
