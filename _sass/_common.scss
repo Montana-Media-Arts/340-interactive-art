@@ -29,11 +29,12 @@ li li {
 // link underline
 .content {
     a {
-        border-bottom: 3px solid $link-color;
+        border-bottom: 3px solid $brand-compliment-1;
     }
     blockquote {
         a {
             color: #ffffff;
+			border-bottom: 3px solid $brand-compliment-1;
         }
     }
 }
