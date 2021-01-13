@@ -1,9 +1,9 @@
 # Sp 2021 Planning
 
 - When should weeks open/close?
-	- Friday to Friday
+	- Tuesday to Tuesday
 - When should the optional Zoom session be?
-	- Tuesday @ noon
+	- Thursdays @ 1pm
 
 
 

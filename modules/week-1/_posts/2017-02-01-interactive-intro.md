@@ -13,14 +13,16 @@ For this week, you should start to consider what the terms _interactive_, _inter
 
 **_{ TODO: }_**
 
-What does it mean to you for something or an experience to be "interactive"?
+Please consider:
 
-Please spend a few moments considering what this means to you at this moment in your education. Once you start to come up with some working definitions for this term, please write them down in a new note (using your previously setup note system) that you can return to later this week, as well as later in the semester.
+- What does it mean to you for something or an experience to be "interactive"?
+
+Spend a few moments considering what this means to you at this moment in your education. Once you start to come up with some working definitions for this term, please write them down in a new note (using your previously setup note system) that you can return to later this week, as well as later in the semester.
 
 
 <br />
 
-# The Art is the Interaction, NOT the Final Product
+# The Art _is the Interaction_, NOT the Final Product
 
 A major shift that you will need to accept in interactive art is that the "art" _is the interaction_. As many point out, this is part of an ongoing path in artistic practice where the final _artifact or object_ is no longer the central concern of artistic works, but instead the central concern is with a _participant's "experience"_.
 
@@ -43,7 +45,7 @@ This engagement between some _thing_ and the _participant_ results in the occurr
 <br />
 
 
-As a first example of this change in approach, I want you to watch this video about Daniel Rozin's work with mechanical mirrors. This artist (and [professor](https://tisch.nyu.edu/about/directory/itp/95804818) at [NYU's ITP Program](https://tisch.nyu.edu/itp)) is interested in challenging participant's perception of how they see themselves in images.
+As a first example of this change in approach, I want you to watch this video about Daniel Rozin's work with mechanical mirrors. This artist (and [professor](https://tisch.nyu.edu/about/directory/itp/95804818) at [NYU's ITP Program](https://tisch.nyu.edu/itp)) is interested in challenging participant's perceptions of how they see themselves in images.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kV8v2GKC8WA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -57,7 +59,7 @@ Another obvious, but important quality of interactive art is its relationship to
 
 ![Clock over time](../imgs/time.png "Clock over time")
 
-Interactive art is a time-based art. As we create, discuss, explore, and contemplate art relating this class this semester, we will need to do so in relation to time. Likewise, it will be important for you to spend time this semester considering how time effects interactive art.
+Interactive art is a time-based art. As we create, discuss, explore, and contemplate art relating to this class this semester, we will need to do so in relation to time. Likewise, it will be important for you to spend time this semester considering how time effects interactive art.
 
 # Further Reading
 
@@ -66,7 +68,7 @@ Interactive art is a time-based art. As we create, discuss, explore, and contemp
 As we get going this week, I want you to read the following article;
 
 - Edmonds, Ernest. “The Art of Interaction.” Digital Creativity, vol. 21, no. 4, 2010, pp. 257–64, doi:10.1080/14626268.2010.556347.
-  - [Available on Moodle for download](https://moodle.umt.edu/pluginfile.php/2164312/mod_resource/content/0/The%20art%20of%20interaction.pdf)
+  - [Available on Moodle for download](https://moodle.umt.edu/pluginfile.php/2508047/mod_resource/content/0/The%20art%20of%20interaction.pdf)
   - If logged into the library, it is directly available from Taylor and Francis Online at: [https://www.tandfonline.com/doi/abs/10.1080/14626268.2010.556347](https://www.tandfonline.com/doi/abs/10.1080/14626268.2010.556347)
 
 When reading the above article, please pay particular attention to the discussions of the role of "interaction" as well as how the focus of the art changes to participant engagement.

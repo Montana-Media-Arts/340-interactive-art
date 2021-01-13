@@ -10,31 +10,44 @@ topic: What Will This Course Be Like?
 
 Now that you have gone through the syllabus, along with its technical details and policies, let's talk about what this course will actually look like.
 
+## Technical Skill Acquisition and Learning a New Tool
+
+The first half of this semester will be an intense introduction to the real-time render engine and development environment of TouchDesigner. We will focus a lot of energy initially on getting everyone up and feeling comfortable with this tool.
+
 ## Text & Reading
 
-There will be a lot of reading.  But I will also supplement the course with some synchronous lectures to hopefully help guide and aid along the way. I recognize that this is not easy stuff.  Don't worry! We will get through this together even online!
+There will be a lot of reading since all of the content is presented asynchronously through this website. But I will supplement the course with some synchronous lectures to help guide and aid along the way. I recognize that this is not easy stuff.  Don't worry! We will get through this together even online!
 
 
 
 ## Videos
 
-See above in the Text & Reading portion.  I will try and help by creating videos and posting ones that I think are helpful as well.
+See above in the Text & Reading portion.  I will work to create content videos that offer additional information on the content within this website. Likewise, I will post a number of external videos that offer additional information about the content in question.
 
 
 ## Pace
 
-This course takes time. Some things might be easier that others.  However, we will ramp into the course slowly over the next few weeks. But, you should set aside time now in your schedule for course work.
+This course takes time. Some things might be easier than others. I highly encourage you to set aside time in your weekly schedule to devote to course work.
 
-This week is a chance for you to get familiarize yourself with tools on your computer, absorb the syllabus, and schedule out time in your week for class work.
+This week is a chance for you to  familiarize yourself with tools on your computer, absorb the syllabus, and schedule out time in your week for class work.
 
 
 ## Dates & Weekly Flow
 
 This course will _mostly_ run as weekly modules.
 
-When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. You homework will always be due by 11:59 PM on the Tuesday of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
+When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. Your homework will always be due by 11:59 PM on the due date. However, please don't wait until 11:59 PM to submit your homework. (This is a recipe for late work and stress)
 
-For example, this module is opening on Tuesday, August 25th. Therefore, you have through next Tuesday, September 1st to complete the module. Likewise, your homework is due Tuesday by 11:59 PM.
+{% comment %}
+Semester specific information
+{% endcomment %}
+
+For this semester, we are planning on running weekly content **Friday to Friday**. (_This is subject to change if necessary as the semester progresses_)
+
+So, for example, a week 2's content will open this Friday morning, 1/15. You will then have until next Friday, 1/22 @ 11:59pm to submit your homework for the week.
+
+We are currently planning on scheduling zoom-class sessions (optional) on Thursdays. This will allow you to work through the content on your own, then come with last minute questions and problems the day before your homework is due.
+
 
 
 ## Homework
@@ -71,20 +84,16 @@ When you have problems in this course, you have a number of solutions available 
 
 1. Google the problem.
     - A critical skill in creative technology and media art is learning to problem solve. Part of this involves learning how to form a good google query. Your first go to for help should always be google.
-2. Post a discussion to the [**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=1656989).
-<!--
-[Course Forum in Moodle](https://discord.gg/nbVCKwX)
-    - Discord is like a massive chat where everyone can talk to one another in real time and help each other out with issues or just chat.
-3. Post to the [course issues forum](https://github.com/Montana-Media-Arts/441-WebTech-Spring2020-examples/issues).
-    - In a couple pages, you will follow along with a short tutorial that will help you signup for GitHub, then star and follow the "course repository". Part of this repository is an "issues forum" where you can post questions and problems you are having. These "issues" will be e-mailed to you, and you can then respond to them.
-    - The advantage to the GitHub issues forum is its advanced system for including formatted code. This will help with problem solving.
--->
-3. Get help from our Graduate Teaching Assistants, [Charlie Apple - charlie.apple@umontana.edu](mailto:charlie.apple@umontana.edu?subject=340%20Questions) and/or [Tina Mahagamage - kristina.mahagamage@umconnect.umt.edu](mailto:kristina.mahagamage@umconnect.umt.edu?subject=340%20Question)
+2. Post a discussion to the [**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=1799774).
+3. Get help from our Graduate Teaching Assistant;
+	- [Tina Mahagamage - kristina.mahagamage@umconnect.umt.edu](mailto:kristina.mahagamage@umconnect.umt.edu?subject=340%20Question)
+	- [Charlie Apple - charlie.apple@umontana.edu](mailto:charlie.apple@umontana.edu?subject=340%20Question)
 4. Get help from the professor [Michael Musick]({{site.baseurl}}/instructors/)
     - If you have a problem, or need help that no one can offer, please contact Michael Musick.
-    - One way to get a hold of me is to schedule an zoom, office hours appointment with me via [Calendly]({{site.baseurl}}/instructors/#Office-Hours).
+    - One way to get a hold of me is to schedule a zoom-based, office hours appointment via [Calendly]({{site.baseurl}}/instructors/#Office-Hours).
     - You may also email me. (I will check my email at least once a day)
-        - [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu?subject=340%20Question)
+		- [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu?subject=340%20Question)
+
 
 <br />
 

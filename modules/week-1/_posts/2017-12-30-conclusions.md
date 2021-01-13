@@ -1,6 +1,6 @@
 ---
 title: Conclusions
-module: 3
+module: 1
 toc: false
 topic: Conclusions
 ---
@@ -8,9 +8,9 @@ topic: Conclusions
 
 That is it for Week 1. I hope you are excited for this course and everything we are going to learn this semester.
 
-I know you likely still feel a little lost as to what this semester will look like. We will take it together though and it is going to be great. I am excited for the projects you are going to create over the next 13 weeks.
+I know you likely still feel a little lost as to what this semester will look like. We will take it together though and it is going to be great. I am excited for the projects you are going to create over the next 15 weeks.
 
-Remember, if you need help, you should try using the course ["Issues Forum" hosted on Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=1656989).
+Remember, if you need help, you should try using the course ["Issues Forum" hosted on Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=1799774).
 
 
 
