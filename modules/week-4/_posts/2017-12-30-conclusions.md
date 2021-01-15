@@ -12,6 +12,6 @@ Next week, we will look at the creation of a generative visual work, utilizing o
 
 ## Zoom-Sessions
 
-Next week, September 24th, we will start with Zoom-Based lectures from 10am-11am.
+Next week, January 21st, we will continue our weekly Zoom-Based lectures from 1pm-:2:20pm.
 
-These will be optional events and will not cover new material. Instead, this will be an opportunity for me to work "in-person" with anyone who can join, for students to ask questions, and for us all to help each other solve TouchDesigner problems. I will send out a Zoom-link with next week's content notification email. 
+These will be optional events and will not cover new material. Instead, this will be an opportunity for me to work "in-person" with anyone who can join, for students to ask questions, and for us all to help each other solve TouchDesigner problems. The zoom link is on the main page of the Moodle site.
