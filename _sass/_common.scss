@@ -29,24 +29,50 @@ li li {
 // link underline
 .content {
     a {
-        border-bottom: 3px solid $brand-compliment-1;
+        border-bottom: 3px solid $link-color;
     }
-    blockquote {
-        a {
-            color: #ffffff;
-			border-bottom: 3px solid $brand-compliment-1;
-        }
-    }
+}
+
+
+#page_hero {
+	background: none;
+	background-image: none;
+
+	color: $black;
+	position: relative;
+	border-radius: 0;
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	// padding-top: 0;
+	// padding-bottom: 0;
+	// height: 30vh;
+	width: 100%;
+	// margin: 10px;
+	padding: $jumbotron-padding/12;
+	margin-top:  $jumbotron-padding;
+	margin-bottom: 0;
+
+}
+
+#over_hero {
+	padding: 5%;
+	background: rgba(255, 255, 255, 0.6);
 }
 
 .page-title {
     font-family: $headings-font-family;
 	font-size: 5rem;
-	font-weight: 200;
+	font-weight: 400;
 	margin-top: $spacer * 8;
     margin-bottom: $spacer * 6;
     text-align: center;
     line-height: 1.2;
+}
+
+#page_hero + .toc {
+	margin-top: 0;
 }
 
 

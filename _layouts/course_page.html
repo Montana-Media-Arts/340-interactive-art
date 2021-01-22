@@ -42,7 +42,6 @@ layout: base
 
 {% endif %}
 
-
 {% assign module=page.categories[1] %}
 
 {% if page.module %}
@@ -72,15 +71,44 @@ layout: base
 </div>
 {% endif %}
 
+
+
+
+
+
 <div class="container-fluid px-md-0">
 
-    <div class="row justify-content-md-center">
+	<div class="row justify-content-md-center">
 
         <div class="col-sm-12 col-md-11 col-lg-9 content">
 
-            {% if page.topic %}
-            <div class="page-title">{{ page.topic }}</div>
-            {% endif %}
+			{% if page.topic %}
+
+			{% if page.cover_image  %}
+
+			<div class="jumbotron jumbotron-fluid" id="page_hero" style="background-image: url('../imgs/{{ page.cover_image_file }}');">
+				<div class="container">
+					<div class="page-title" id="over_hero">{{ page.topic }}</div>
+					<!-- <h1 class="display-4">Fluid jumbotron</h1> -->
+					<!-- <p>This is a modified jumbotron that occupies the entire horizontal space of its parent.</p> -->
+				</div>
+			</div>
+
+
+			{% elsif page.cover_image != false %}
+			<div class="container-fluid px-md-0">
+
+				<div class="row justify-content-md-center">
+
+			<div class="col-sm-12 col-md-9 col-lg-9 content">
+				<div class="page-title">{{ page.topic }}</div>
+			</div>
+			</div>
+			</div>
+
+			{% endif %}
+
+			{% endif %}
 
             {% if page.toc != false %}
             <div class="toc">{% include toc.html html=content h_max=3 %}</div>
