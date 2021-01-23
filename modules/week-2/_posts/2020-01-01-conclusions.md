@@ -16,7 +16,7 @@ OK, I imagine this was a slightly overwhelming introduction to TouchDesigner. Th
 
 Besides, YOU finally, actually, really, dug into TouchDesigner. Hopefully you had a good experience which resulted in your creation of a WebCam filter. Please remember to utilize the ["Issues Forum"](https://moodle.umt.edu/mod/hsuforum/view.php?id=1656989) if you are having problems (and to help your fellow students out who are having issues).
 
-Next week, we will look at the creation of a generative visual work, utilizing other operators. We will also start to examine how Feedback can help us quickly build up complex works.
+Next week, we will look at the creation of a generative visual work, utilizing other operators. 
 
 ## Zoom-Sessions
 

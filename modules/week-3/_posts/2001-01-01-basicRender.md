@@ -1,6 +1,6 @@
 ---
 title: Basic Render Network
-module: 5
+module: 3
 jotted: false
 toc: false
 topic: A Basic Render Network Setup
@@ -10,7 +10,8 @@ When working in environments such as TouchDesigner (or Max/MSP, Isadora, Cinema4
 
 To get started on this journey, I want you to read and follow along with Matthew Ragan's excellent overview of Rendering with TouchDesigner.
 
-- [Ragan, Matthew. "Rendering \| TouchDesigner", 2014. Available from; https://matthewragan.com/2014/06/24/rendering-touchdesigner/.](https://matthewragan.com/2014/06/24/rendering-touchdesigner/)
+- <a href="https://matthewragan.com/2014/06/24/rendering-touchdesigner/" target="_blank">Ragan, Matthew. "Rendering \| TouchDesigner", 2014. <br />Available from; https://matthewragan.com/2014/06/24/rendering-touchdesigner/.</a>
+
 
 > [Matthew Ragan](https://matthewragan.com/about/) is known for his work in creating tutorial content for the TouchDesigner community during his time at Arizona State University.
 >

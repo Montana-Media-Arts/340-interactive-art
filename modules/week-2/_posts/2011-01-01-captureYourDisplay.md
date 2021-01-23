@@ -1,6 +1,6 @@
 ---
 title: Capture Your Display
-module: 4
+module: 2
 jotted: false
 toc: true
 topic: Capture Your Computer Display as a Video

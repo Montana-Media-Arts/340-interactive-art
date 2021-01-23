@@ -1,6 +1,6 @@
 ---
 title: Another Way to Work
-module: 4
+module: 3
 jotted: false
 toc: true
 topic: Another Way to Work<br>Using "Out" and a Panel

@@ -1,6 +1,6 @@
 ---
 title: Procedural 3D Landscape
-module: 5
+module: 3
 jotted: false
 toc: false
 topic: Procedural 3D Landscape
