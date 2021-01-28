@@ -1,14 +1,14 @@
 title: Principles of Interactive Art, MART 340.50
 title-short: Interactive Art 1
 title-extra-short: Interactive Art
-description: Broad introduction to working with, creating, and discussing interactive art.
+description: Broad introduction to working with, creating, and discussing interactive art and media.
 institution: University of Montana,</br>School of Visual and Media Arts
-institution-short: Media Arts | Montana
+institution-short: SVMA | Montana
 
 infoModules: [syllabus, instructors, help]
 
 
-modules: [week-1, week-2, week-3]
+modules: [week-1, week-2, week-3, week-4]
 # modules: [week-11, week-12, week-13]
 #  modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12]
 # modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12, final-info]

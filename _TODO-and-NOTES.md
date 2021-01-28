@@ -1,9 +1,8 @@
 # Sp 2021 Planning
 
-- When should weeks open/close?
-	- Friday to Friday
-- When should the optional Zoom session be?
-	- Thursdays @ 1pm
+
+- Change emails for TAs to hit both of them at once.
+-
 
 
 
@@ -60,6 +59,10 @@ Split class into three general sections
 	- Breakdown interactive experience into its constituent parts
 - Breakdown an interactive system, in to its constituent parts
 - Tools as what they are, _tools_
+
+
+
+
 
 
 

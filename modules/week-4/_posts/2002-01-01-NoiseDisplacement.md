@@ -4,11 +4,17 @@ module: 6
 jotted: false
 toc: false
 topic: Noise Displacement in TouchDesigner
+cover_image: true
+cover_image_file: fb-cover.png
 ---
+
+
+<br />
+
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Rg6BwSqR31E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-This weeks primary content comes from Simon Alexander-Adams, who is a media artist, interaction designer, and musician out of Detroit, MI. The tutorial examines the use of "noise" as visual source and displacement data in a generative art work. Please head to Simon's page hosting this tutorial, read through his discussions around noise, randomness, and displacement.
+This weeks primary content comes from [Simon Alexander-Adams](https://www.simonaa.media), who is a media artist, interaction designer, and musician out of Detroit, MI. The tutorial examines the use of "noise" as visual source and displacement data in a generative art work. Please head to Simon's page hosting this tutorial, read through his discussions around noise, randomness, and displacement.
 
 I would also like you to read the linked articles with further information on these subjects.
 
@@ -31,6 +37,6 @@ I would also like you to read the linked articles with further information on th
 
 
 
-The video for this tutorial is on Simon's tutorial page, it is provided below for reference as well.
+The video for this tutorial is on [Simon's tutorial page](https://www.simonaa.media/tutorials/noisedisplacement), it is provided below for reference as well.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LWpUcaCHD3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
