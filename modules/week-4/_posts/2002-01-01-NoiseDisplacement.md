@@ -27,7 +27,7 @@ I would also like you to read the linked articles with further information on th
 	- [Shepherding Random Numbers · inconvergent](https://inconvergent.net/2016/shepherding-random-numbers/)
 	- [Why Love Generative Art? — Artnome](https://www.artnome.com/news/2018/8/8/why-love-generative-art)
 - Links to TD Operators
-	- When you utilize an operator you are unfamiliar with, you should go to the TD Wiki and read about to, this will allow you to start learning operators more rapidly, as well as offer you information about how they may be used.
+	- When you utilize an operator you are unfamiliar with, you should go to the TD Wiki and read about it, this will allow you to start learning operators more rapidly, as well as offer you information about how they may be used.
 	- [TouchDesigner Documentation - Noise TOP](https://docs.derivative.ca/Noise_TOP)
 	- [TouchDesigner Documentation - Phong MAT](https://docs.derivative.ca/Phong_MAT)
 	- [TouchDesigner Documentation - Lookup TOP](https://docs.derivative.ca/Lookup_TOP)
