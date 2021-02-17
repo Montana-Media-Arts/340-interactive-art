@@ -1,10 +1,10 @@
 ---
-title: Particle Demo Vids
+title: Particle Demo Vids - Part 1
 module: 6
 jotted: false
 toc: true
 math: false
-stopic: Particle System Tutorial Videos
+stopic: Particle System Tutorial Videos - Part 1
 cover_image: false
 cover_image_file: cover.jpg
 ---
