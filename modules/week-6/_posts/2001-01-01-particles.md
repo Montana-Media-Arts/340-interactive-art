@@ -27,7 +27,7 @@ Particles can make or break an experience.  Let's say you are designing a bright
 
 **Dust Particles** -  this is using sprites represented by the jagged edges.  Sprites are usually 2D images.  Using 2D versus 3D is better for optimization in most software environments.  Something like this would be created in photoshop with alpha data (transparency) and then is repeatedly animated and emitted from the source.
 
-![Example of dust particles after rendering](../imgs/Image4.JPG "Example of dust particles after rendering") 
+![Example of dust particles after rendering](../imgs/Image4a.JPG "Example of dust particles after rendering") 
 
 When rendered (in engine) it is preserved as dust particles.
 
