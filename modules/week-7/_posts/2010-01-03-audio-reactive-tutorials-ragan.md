@@ -2,7 +2,7 @@
 title: Tutorials - Ragan
 module: 7
 jotted: false
-toc: true
+toc: false
 math: false
 topic: Audio Reactive Tutorials - Matthew Ragan
 ---
@@ -24,7 +24,3 @@ To get you started this week, we have curated an exciting list of tutorials for 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UwVYpJ-M2GI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FG-w0VODxbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-## Noto the Talking Ball
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jf718jbSoTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

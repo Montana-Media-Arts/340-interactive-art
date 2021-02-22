@@ -2,7 +2,7 @@
 title: Tutorials - Noto
 module: 7
 jotted: false
-toc: true
+toc: false
 math: false
 topic: Audio Reactive Tutorials - Noto the Talking Ball
 ---

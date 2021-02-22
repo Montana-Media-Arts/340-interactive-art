@@ -2,7 +2,7 @@
 title: Tutorials - Immersive HQ
 module: 7
 jotted: false
-toc: true
+toc: false
 math: false
 topic: Audio Reactive Tutorials - Immersive HQ
 ---
