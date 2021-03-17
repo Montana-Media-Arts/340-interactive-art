@@ -148,7 +148,7 @@ Don’t add fancy transitions or unnecessary animations.  The work should stand 
 
 #### Framestore
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.framestore.com/sites/default/files/blocks/videos/immersive_reel_nofronttitles_2.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.framestore.com/sites/default/files/blocks/videos/immersive_reel_nofronttitles_2.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - [https://www.framestore.com/work/Immersive-showreel?language=en](https://www.framestore.com/work/Immersive-showreel?language=en)
 
