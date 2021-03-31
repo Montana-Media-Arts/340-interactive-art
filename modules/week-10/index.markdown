@@ -1,7 +1,7 @@
 ---
 layout: index
 published: true
-module: 10
+module: 8
 ---
 
 

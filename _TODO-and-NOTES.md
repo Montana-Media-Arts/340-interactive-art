@@ -1,9 +1,21 @@
 # Sp 2021 Planning
 
 
-- Change emails for TAs to hit both of them at once.
--
+# Final Project Thoughts
 
+- launch final project March 26th
+- final project proposals due Monday, April 5th
+  - TAs will flag any concerning on 6th, 7th
+  - Along with responses to first video crit
+- Any concern proposals will be flagged by the 8th at latest
+- ~~Friday the 16th~~ DUE Monday the 19th
+- Final Crit w/ TA's, filmed (Wednesday, March 21st @ 9am)
+- Final crit responses are due by Tuesday, the 27th @ midnight
+- Grades due by Friday, April 30th
+- Post Mortem Discussion (on my porch) 2pm Friday, April 30th
+
+
+- What about a reel for presentation at the same time at 440? Same nights. 
 
 
 
