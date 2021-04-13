@@ -61,6 +61,6 @@ To submit this work, you will upload;
 
 ## Group Critique
 
-Following the submission of your final projects, the TA's and myself will meet to film a live-streamed critique of your projects. This will likely occur **Thursday, November 12th @ 8AM**. Details will follow.
+Following the submission of your final projects, the TA's and myself will meet to film a live-streamed critique of your projects. This will likely occur **Wednesday, April 21st @ 8AM**.
 
-You will be expected to watch this event in real-time or afterwards via video link. You will be expected to watch this video. After watching the video, you will be asked to write a reflection paper about the critique, your experience with your final project, your reaction to the rest of the classes final projects, and reflecting on your individual experience in the class. These will be due **Wednesday November 18th**. (_More information to come after the submission of final projects._)
+You will be expected to watch this event in afterwards via video link.After watching the video, you will be asked to write a reflection paper about the critique, your experience with your final project, your reaction to the rest of the classes final projects, and reflecting on your individual experience in the class. These will be due **Monday, April 26th**. (_More information to come after the submission of final projects._)
