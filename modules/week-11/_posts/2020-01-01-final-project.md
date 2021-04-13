@@ -49,7 +49,7 @@ To submit this work, you will upload;
 		- appropriate credits
 		- high-quality sound (if appropriate)
 	- **{ NOTE: } _This will be the primary file used to assess the success of your final project! Please make this video the best representation you can._**
-	- Preferred delivery is a public YouTube link. Alternatively, you can submit a private link or upload a file (if small enough).
+	- Preferred delivery is a public YouTube link. Alternatively, you can submit an _unlisted_ link or upload a file (if small enough).
 3. A discussion of your experience, the artwork, and future work you intend to complete with TouchDesigner.
 	- This brief description can also include any information you may want myself and the grading TA's to know about your work.
 	- This does not need to be too long of a writing.
