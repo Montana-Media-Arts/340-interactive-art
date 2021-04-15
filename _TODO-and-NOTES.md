@@ -15,7 +15,12 @@
 - Post Mortem Discussion (on my porch) 2pm Friday, April 30th
 
 
-- What about a reel for presentation at the same time at 440? Same nights. 
+- What about a reel for presentation at the same time at 440? Same nights.
+
+
+# Thoughts for Fall 2021
+
+- For all written assignments, provide a template, with headings, and examples of how to gad damned, fucking write. 
 
 
 
