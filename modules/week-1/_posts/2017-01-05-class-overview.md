@@ -36,17 +36,9 @@ This week is a chance for you to  familiarize yourself with tools on your comput
 
 This course will _mostly_ run as weekly modules.
 
-When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. Your homework will always be due by 11:59 PM on the due date. However, please don't wait until 11:59 PM to submit your homework. (This is a recipe for late work and stress)
+When a module is released (i.e., it goes live on Moodle and this site), you will have one week to work through it, complete the homework, and submit your homework. Your homework will always be due by 11:59 PM on the {{ site.data.course.module-week-day }} of the next week.  Please don't wait until 11:59 PM to submit your homework.  Everyone tries and the Moodle might be on hiatus and then sad things can happen.
 
-{% comment %}
-Semester specific information
-{% endcomment %}
-
-For this semester, we are planning on running weekly content **Friday to Friday**. (_This is subject to change if necessary as the semester progresses_)
-
-So, for example, a week 2's content will open this Friday morning, 1/15. You will then have until next Friday, 1/22 @ 11:59pm to submit your homework for the week.
-
-We are currently planning on scheduling zoom-class sessions (optional) on Thursdays. This will allow you to work through the content on your own, then come with last minute questions and problems the day before your homework is due.
+For example, Week 2's Module runs from {{ site.data.course.module-week-day }} to {{ site.data.course.module-week-day }}, {{ site.data.dates[2][0] }}. Therefore, you have through next {{ site.data.course.module-week-day }}, {{ site.data.dates[2][1] }} to complete the module and submit your homework. Week 3 will likewise open {{ site.data.course.module-week-day }} and run {{ site.data.dates[3][0] }}
 
 
 
@@ -84,7 +76,7 @@ When you have problems in this course, you have a number of solutions available 
 
 1. Google the problem.
     - A critical skill in creative technology and media art is learning to problem solve. Part of this involves learning how to form a good google query. Your first go to for help should always be google.
-2. Post a discussion to the [**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=1799774).
+2. Post a discussion to the [**Course Help Forum** in Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=1955054).
 3. Get help from our Graduate Teaching Assistant;
 	- [Tina Mahagamage - kristina.mahagamage@umconnect.umt.edu](mailto:kristina.mahagamage@umconnect.umt.edu?subject=340%20Question)
 	- [Charlie Apple - charlie.apple@umontana.edu](mailto:charlie.apple@umontana.edu?subject=340%20Question)

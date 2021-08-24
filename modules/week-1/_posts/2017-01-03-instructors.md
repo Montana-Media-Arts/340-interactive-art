@@ -20,9 +20,9 @@ I am the professor who is building and delivering this course. I am also the ins
 
 I am excited to work with you, and guide you through this journey of introducing you to interactive art!
 
-Please feel free to leverage my virtual office hours. I would love it if each and everyone of you would create an appointment to meet with me in the first few weeks to introduce yourself. You can do this through my [Calendly links](https://calendly.com/michael-musick). These are available via the  [Instructors tab]({{site.baseurl}}/instructors/).
+Please feel free to leverage my in-person or virtual office hours. I would love it if each and everyone of you would create an appointment to meet with me in the first few weeks to introduce yourself. You can do this through my Calendly links. These are available via the  [Instructors tab]({{site.baseurl}}/instructors/).
 
-For anyone wanting to setup an appointment immediately, please feel free to setup a meeting right now!
+For anyone wanting to setup an appointment immediately, please feel free to stop by my [in-person office hours]({{site.baseurl}}/instructors/#office-hours), or setup a Zoom meeting right now!
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/michael-musick" style="min-width:320px;height:1000px;"></div>
