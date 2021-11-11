@@ -10,7 +10,7 @@ topic: Final Project
 
 ## Due Date
 
-**Final Project Due Date - _Monday, April 19th, @ 11:59pm_**
+**Final Project Due Date - _{{site.data.dates.final_submission}}_**
 
 
 ## Specifications
@@ -61,6 +61,6 @@ To submit this work, you will upload;
 
 ## Group Critique
 
-Following the submission of your final projects, the TA's and myself will meet to film a live-streamed critique of your projects. This will likely occur **Wednesday, April 21st @ 8AM**.
+Following the submission of your final projects, the TA's and myself will meet to film a live-streamed critique of your projects. If this occurs, we will send an email with specifics.
 
-You will be expected to watch this event in afterwards via video link.After watching the video, you will be asked to write a reflection paper about the critique, your experience with your final project, your reaction to the rest of the classes final projects, and reflecting on your individual experience in the class. These will be due **Monday, April 26th**. (_More information to come after the submission of final projects._)
+You will be expected to watch this event in afterwards via video link.After watching the video, you will be asked to write a reflection paper about the critique, your experience with your final project, your reaction to the rest of the classes final projects, and reflecting on your individual experience in the class. These will be due **{{site.data.dates.final_response}}**. (_More information to come after the submission of final projects._)
