@@ -9,8 +9,14 @@
 7: ["October 8th - October 15th", "October 15th @ 11:59 PM"]
 8: ["October 15th - October 22nd", "No Homework Due"]
 9: ["October 22nd - November 5th: Two Weeks Long (Includes a 'Spring Break')", "November 5th @ 11:59pm"]
-10: ["November 5th - November 12th", "November 12th @ 11:59 PM"]
-11: ["November 12th - November 19th", "November 19th @ 11:59 PM"]
-12: ["November 19th - December 3rd", "December 3rd @ 11:59 PM"]
+10: ["November 5th - November 19th", "November 19th @ 11:59 PM"]
+11: ["November 12th - November 6th", "November 6th @ 11:59 PM"]
+12: ["November 6th - December 10th", "December 10th @ 11:59 PM"]
 # 13: ["April 16th - April 23rd", "April 23rd @ 11:59 PM"]
 # 16: ["April 27th - May 1st", "Final Due - May 8th @ 11:59 PM"]
+
+final_proposal: "November 19th @ 11:59 PM"
+# 1st_draft: "---"
+final_submission: "December 6th @ 11:59 PM (NO LATE WORK ACCEPTED)"
+# show: "Wednesday, December 8th @ 8pm on KBGA-89.9FM"
+final_response: "December 10th @ 11:59 PM"
