@@ -1,7 +1,19 @@
-# Sp 2021 Planning
+# Planning
+
+# Spring 22
+
+## Info for Charlie
+
+- All content exists within the `/modules` directory.
+- date information is coded into `_data/dates.yml`
 
 
-# Final Project Thoughts
+
+---
+
+# Spring 21
+
+## Final Project Thoughts
 
 - launch final project March 26th
 - final project proposals due Monday, April 5th
@@ -18,11 +30,12 @@
 - What about a reel for presentation at the same time at 440? Same nights.
 
 
-# Thoughts for Fall 2021
+## Thoughts for Fall 2021
 
-- For all written assignments, provide a template, with headings, and examples of how to gad damned, fucking write. 
+- For all written assignments, provide a template, with headings, and examples of how to god damned, fucking write.
 
 
+---
 
 # Fall 2020 Recap with TA’s - Nov 16, 2020
 
