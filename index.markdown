@@ -19,7 +19,9 @@ This site serves as both a supplement to in-person sections of this course as we
 The [**syllabus**]({{ site.baseurl }}/syllabus/ ) contains more information about the course, as well as student expectations.
 
 
-This course is delivered by [Michael Musick, PhD]({{ site.baseurl }}/instructors/ ).
+This course was originally built by [Michael Musick, PhD]({{ site.baseurl }}/instructors/ ).
+
+For the Spring 2022 semester, it is being delivered by [Charlie Apple]({{site.baseurl}}/instructors/#Charlie-Apple).
 
 
 ### Start the Course!
