@@ -10,10 +10,17 @@ topic: Group Critique Response
 Please watch the critique video from your daily sketch journals (demo reels). 
 
 - _Available through both Moodle and YouTube_
-- YouTube: [https://youtu.be/6Xxzpg8wvwc](https://youtu.be/6Xxzpg8wvwc)
+
+<!-- Fall  -->
+- YouTube: [
+https://youtu.be/AQVJ3AY02wc](
+https://youtu.be/AQVJ3AY02wc)
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AQVJ3AY02wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <!-- Fall 2021 -->
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6Xxzpg8wvwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<!-- - YouTube: [https://youtu.be/6Xxzpg8wvwc](https://youtu.be/6Xxzpg8wvwc) -->
+<!-- <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6Xxzpg8wvwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> -->
 
 <!-- Spring 2021 -->
 <!-- <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tEmMB7UWcCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> -->
