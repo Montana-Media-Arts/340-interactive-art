@@ -21,7 +21,7 @@ The [**syllabus**]({{ site.baseurl }}/syllabus/ ) contains more information abou
 
 This course was originally built by [Michael Musick, PhD]({{ site.baseurl }}/instructors/ ).
 
-For the Spring 2022 semester, it is being delivered by [Charlie Apple]({{site.baseurl}}/instructors/#charlie-apple).
+For the Fall 2022 semester, it is being delivered by [Tina M]({{site.baseurl}}/instructors/#charlie-apple).
 
 
 
