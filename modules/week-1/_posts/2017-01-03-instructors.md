@@ -15,24 +15,28 @@ Quick links, including email links, office hours, and lab hours, are all availab
 
 What follows is a more detailed introduction to the people delivering this class to you this semester. We are a team, and will be working together to deliver this experience to you.
 
+## Professor - Tina M
 
+### Tina Maha
 
-## Teaching Assistant - Tina and Charlie
-
-We will have two Teaching Assistants to assist you throughout this semester. As with my information, you can always get their info and contact details from the above ["Instructors"]({{site.baseurl}}/instructors/) tab.
-
-If you are unable to solve problems on your own or through the course "issues forum" (available through Moodle), you should e-mail one of our TAs for help.
-
-### Tina Mahagamage
-
-Tina is an MFA student who can help you with 3D design and development, visual-based issues/concerns, and as we look at TouchDesigner, she will serve to assist in its similarities to other interactive development environments.
+Tina is an adjunct professor and recent MFA graduate of SVMA that specializes in immersive interactive experiences; including Virtual Reality and Augmented Reality development and design.  As we look at TouchDesigner, she will serve to guide in its similarities to other interactive development environments.
 
 [kristina.mahagamage@umconnect.umt.edu](mailto:kristina.mahagamage@umconnect.umt.edu?subject=340%20Question)
 
 > # Bio
 >
-> Tina is a Digital Media Artist whose specialty is 3D design and development. Tina also has skills with virtual world creation and interactivity using Unity or Unreal Engine 4. Tina graduated from Otis College of Art and Design with a degree in Digital Media and an emphasis on 3D design and virtual reality development with a minor in creative writing.
->
+> As an immersive interactive artist who specializes in acquiring advanced skills through various high-end software, I create works that invoke empathic or emotional experiences for participants. My work consists of a collection of interactive experiences that examine different modalities of interactivity and experiential design.  
+
+My expertise is on Virtual Reality and Augmented Reality development and design including CG asset creation and creative coding. 
+
+I am a recent graduate of the Media Arts MFA program with years of teaching design and development under my belt.  I completed my undergrad at Otis College of Art and Desing in Digital Media with a minor in creative writing and storytelling.
+
+
+## Teaching Assistant - Charlie Apple
+
+We will have a Teaching Assistant to assist you throughout this semester.
+
+If you are unable to solve problems on your own or through the course "issues forum" (available through Moodle), you should e-mail our TA for help.
 
 ### Charlie Apple
 
