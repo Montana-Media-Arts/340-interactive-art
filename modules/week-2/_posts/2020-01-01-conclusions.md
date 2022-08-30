@@ -14,7 +14,7 @@ topic: Conclusions
 
 OK, I imagine this was a slightly overwhelming introduction to TouchDesigner. That is OK, it will get easier. Just remember back to MART 120 and the time it took you there! TouchDesigner will utilize this knowledge, as well as any knowledge you have in other media environments (animation, sound, film, etc.).
 
-Besides, YOU finally, actually, really, dug into TouchDesigner. Hopefully you had a good experience which resulted in your creation of a WebCam filter. Please remember to utilize the ["Issues Forum"](https://moodle.umt.edu/mod/hsuforum/view.php?id=1656989) if you are having problems (and to help your fellow students out who are having issues).
+Besides, YOU finally, actually, really, dug into TouchDesigner. Hopefully you had a good experience which resulted in your creation of a WebCam filter. Please remember to utilize the ["General Help and Assistance Forum"](https://moodle.umt.edu/mod/hsuforum/view.php?id=2299977) if you are having problems (and to help your fellow students out who are having issues).
 
 Next week, we will look at the creation of a generative visual work, utilizing other operators.
 
