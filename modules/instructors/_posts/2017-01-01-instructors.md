@@ -22,7 +22,8 @@ Tina is an adjunct professor and recent MFA graduate of SVMA that specializes in
 > As an immersive interactive artist who specializes in acquiring advanced skills through various high-end software, I create works that invoke empathic or emotional experiences for participants. My work consists of a collection of interactive experiences that examine different modalities of interactivity and experiential design.  
 >My expertise is on Virtual Reality and Augmented Reality development and design including CG asset creation and creative coding. 
 >I am a recent graduate of the Media Arts MFA program with years of teaching design and development under my belt.  I completed my undergrad at Otis College of Art and Desing in Digital Media with a minor in creative writing and storytelling.
-
+>
+>[Tinamdigitalart.com](https://www.tinamdigitalart.com/)
 
 ## Teaching Assistant - Charlie Apple
 
