@@ -17,7 +17,7 @@ What follows is a more detailed introduction to the people delivering this class
 
 ## Professor - Tina M
 
-### Tina Maha
+### Tina M
 
 Tina is an adjunct professor and recent MFA graduate of SVMA that specializes in immersive interactive experiences; including Virtual Reality and Augmented Reality development and design.  As we look at TouchDesigner, she will serve to guide in its similarities to other interactive development environments.
 
