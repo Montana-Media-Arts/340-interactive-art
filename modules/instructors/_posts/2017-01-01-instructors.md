@@ -9,22 +9,28 @@ topic: Instructor
 
 
 
-## Teaching Assistants - Tina and Charlie
+## Professor - Tina M
 
-We will have two Teaching Assistants to assist you throughout this semester.
+### Tina Maha
 
-If you are unable to solve problems on your own or through the course "issues forum" (available through Moodle), you should e-mail one of our TAs for help.
-
-### Tina Mahagamage
-
-Tina is an MFA student who can help you with 3D design and development, visual-based issues/concerns, and as we look at TouchDesigner, she will serve to assist in its similarities to other interactive development environments.
+Tina is an adjunct professor and recent MFA graduate of SVMA that specializes in immersive interactive experiences; including Virtual Reality and Augmented Reality development and design.  As we look at TouchDesigner, she will serve to guide in its similarities to other interactive development environments.
 
 [kristina.mahagamage@umconnect.umt.edu](mailto:kristina.mahagamage@umconnect.umt.edu?subject=340%20Question)
 
 > # Bio
 >
-> Tina is a Digital Media Artist whose specialty is 3D design and development. Tina also has skills with virtual world creation and interactivity using Unity or Unreal Engine 4. Tina graduated from Otis College of Art and Design with a degree in Digital Media and an emphasis on 3D design and virtual reality development with a minor in creative writing.
->
+> As an immersive interactive artist who specializes in acquiring advanced skills through various high-end software, I create works that invoke empathic or emotional experiences for participants. My work consists of a collection of interactive experiences that examine different modalities of interactivity and experiential design.  
+
+My expertise is on Virtual Reality and Augmented Reality development and design including CG asset creation and creative coding. 
+
+I am a recent graduate of the Media Arts MFA program with years of teaching design and development under my belt.  I completed my undergrad at Otis College of Art and Desing in Digital Media with a minor in creative writing and storytelling.
+
+
+## Teaching Assistant - Charlie Apple
+
+We will have a Teaching Assistant to assist you throughout this semester.
+
+If you are unable to solve problems on your own or through the course "issues forum" (available through Moodle), you should e-mail our TA for help.
 
 ### Charlie Apple
 
@@ -60,18 +66,8 @@ Please contact Dr. Musick with any problems.
 
 #### Office Hours
 
-I will offer both in-person and virtual/Zoom-based office hours.
-
-**In-Person:**
-
-- McGill 233 (my personal office): Please email to inquire about office hours
+I will offer virtual/Zoom-based office hours.
 
 **Zoom-Based Office Hours**
-
-- via Appointment from Link: [calendly.com/michael-musick](https://calendly.com/michael-musick)
-  - Or from embedded widget below
-
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/michael-musick" style="min-width:320px;height:1000px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
+ - Virtual via Zoom Link: [Office Hours Every Friday from 11 am - 1 pm](https://umontana.zoom.us/j/94133489843)
+  - Virtual appointment: Email me to schedule zoom meetings.
