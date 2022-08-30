@@ -10,7 +10,7 @@ That is it for Week 1. I hope you are excited for this course and everything we 
 
 I know you likely still feel a little lost as to what this semester will look like. We will take it together though and it is going to be great. I am excited for the projects you are going to create over the next 15 weeks.
 
-Remember, if you need help, you should try using the course ["Issues Forum" hosted on Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=1955054).
+Remember, if you need help, you should try using the course ["Issues Forum" hosted on Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=2299977).
 
 
 
