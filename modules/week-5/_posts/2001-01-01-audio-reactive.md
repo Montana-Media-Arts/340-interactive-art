@@ -1,6 +1,6 @@
 ---
 title: Audio Reactive Intro
-module: 7
+module: 5
 jotted: false
 toc: true
 math: false
@@ -68,7 +68,7 @@ In these shows, light artists work with oil, dye, overhead projectors, and custo
 
 As you can imagine, as computers have increased in power, their ability to perform real-time based work has led to an explosion of audio-reactive content and work. Many live performances of pop, electronic, and experimental musicians are accompanied by visual material of some kind.
 
-Some of this material is fully generative and changes drastically with each performance. Some of it is fully pre-rendered and appears to be reactive, but was conceived of in the studio. Regardless, the concepts are similar and the outcome the same; the creation of multi-media based performance work. 
+Some of this material is fully generative and changes drastically with each performance. Some of it is fully pre-rendered and appears to be reactive, but was conceived of in the studio. Regardless, the concepts are similar and the outcome the same; the creation of multi-media based performance work.
 
 
 <div class="ref">

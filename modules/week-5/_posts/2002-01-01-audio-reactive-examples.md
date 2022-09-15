@@ -1,6 +1,6 @@
 ---
 title: Audio Reactive Examples
-module: 7
+module: 5
 jotted: false
 toc: false
 math: false

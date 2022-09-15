@@ -1,6 +1,6 @@
 ---
 title: Noise Displacement
-module: 4
+module: 7
 jotted: false
 toc: false
 topic: Noise Displacement in TouchDesigner
