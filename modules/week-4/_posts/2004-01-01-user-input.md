@@ -14,7 +14,9 @@ Continuing with the feedback example project, let's add some User Based interact
 
 ## Simple Keyboard Input
 
+Let's look at a simple keyboard input to control the reset of the feedback.
 
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/VDuWKtWFWdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 ## Controller using Keyboard Inputs
