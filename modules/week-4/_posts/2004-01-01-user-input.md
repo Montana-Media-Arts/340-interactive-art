@@ -23,9 +23,9 @@ Continuing with the feedback example project, let's add some User Based interact
 
 ## Advanced Mouse Tracking
 
-This tutorial by Nato the Talking Ball dives into a more dynamic method of using mouse tracking using 3D objects. 
+This tutorial by [Nato the Talking Ball](https://www.youtube.com/c/NotoTheTalkingBall) dives into a more dynamic method of using mouse tracking using 3D objects. 
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/SJZIMGg-thY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-In this tutorial video by noones img looks at another method of using mouse tracking using instances.
+In this tutorial video by [noones img](https://www.youtube.com/c/noonesimg) looks at another method of using mouse tracking using instances.
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/wM_DIPat4iY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
