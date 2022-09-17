@@ -18,8 +18,13 @@ Let's look at a simple keyboard input to control the reset of the feedback.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/VDuWKtWFWdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-
 ## Controller using Keyboard Inputs
+
+In this example, let's create a simple up, down, right, left controller using keyboard inputs.
+
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/IWcSDFh1yGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 
 ## Mouse Tracking and On Press Command
 
