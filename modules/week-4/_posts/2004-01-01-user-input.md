@@ -31,11 +31,11 @@ Now that we know how to use keyboard inputs, let's apply the same logic to mouse
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/XzzBgInOIxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-## Mouse Click and Switch
+## Mouse Click and Color Switch
 
 Pushing this project further, let's use what we learned with click commands to create a color change using a switch node.  The click command will drive the switch which does the color change. 
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/IWcSDFh1yGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/aEwjX39fLyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 In the next section, we will look at more advanced tools and techniques for feedback and user input interactivity. 
