@@ -25,14 +25,17 @@ In this example, let's create a simple up, down, right, left controller using ke
 <div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/IWcSDFh1yGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
+## Simple Mouse Tracking and Click Command
 
-## Mouse Tracking and On Press Command
+Now that we know how to use keyboard inputs, let's apply the same logic to mouse tracking and click commands.  This tutorial will look at using mouse tracking and click commands to create an interative drawing experience. 
 
-## Advanced Mouse Tracking
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/XzzBgInOIxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-This tutorial by [Nato the Talking Ball](https://www.youtube.com/c/NotoTheTalkingBall) dives into a more dynamic method of using mouse tracking using 3D objects. 
+## Mouse Click and Switch
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/SJZIMGg-thY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Pushing this project further, let's use what we learned with click commands to create a color change using a switch node.  The click command will drive the switch which does the color change. 
 
-In this tutorial video by [noones img](https://www.youtube.com/c/noonesimg) looks at another method of using mouse tracking using instances.
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/wM_DIPat4iY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/IWcSDFh1yGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+In the next section, we will look at more advanced tools and techniques for feedback and user input interactivity. 
