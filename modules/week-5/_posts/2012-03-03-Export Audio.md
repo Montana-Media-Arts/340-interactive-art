@@ -9,4 +9,4 @@ topic: Export Audio
 
 This lesson will cover how to export audio with your audio reactive art work. 
 
-![Example ](../imgs/thermostat-system.png "Example of a thermostat-based cybernetic system")
+![Example AudioFile Out Node ](../imgs/audiofile_Out "AudioFile Out Node")
