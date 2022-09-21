@@ -41,3 +41,12 @@ Please go to Simon's page for the full tutorial:
 
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/339253469?color=ffffff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p><a href="https://vimeo.com/339253469">Instancing Geometry in TouchDesigner</a> from <a href="https://vimeo.com/sealex">Simon Alexander-Adams</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
+
+
+## Advanced Particles in TouchDesigner
+
+This tutorial takes particles to the next level by building them along a path.  Feeling up for the challenge? Follow along with [smooth_isfast - Particle Path with TouchDesigner](https://youtu.be/FBhk1_9WtUo) and learn more complex techniques on how to manipulate particles to create interesting pieces of art.
+
+- [Article- DAILY DRAWINGS, ALWAYS REAL-TIME WITH @SMOOTH_ISFAST](https://derivative.ca/community-post/daily-drawings-always-real-time-smoothisfast/62998)
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/339253469?color=ffffff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><iframe width="560" height="315" src="https://www.youtube.com/embed/FBhk1_9WtUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
