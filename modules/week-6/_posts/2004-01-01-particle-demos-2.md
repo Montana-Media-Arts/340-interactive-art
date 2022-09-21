@@ -1,5 +1,5 @@
 ---
-title: Interactivity, Particles, and Instancing
+title: Instancing and Advance Particles
 module: 6
 jotted: false
 toc: true
@@ -8,22 +8,6 @@ topic: Particle System Tutorial Videos - Part 2
 cover_image: false
 cover_image_file: cover.jpg
 ---
-
-Let's apply some of previous concepts to the particles and dive deeper.
-
-## Audio Reactivity and Particles
-
-In this by [bileam tschepe (elekktronaut) - Audioreactive Particle Cloud – TouchDesigner Tutorial 10](https://youtu.be/M8X_FFB-ikQ) tutorial work through designing a particle cloud that then morphs and dances with music or sound. 
-
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/M8X_FFB-ikQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-
-## Mouse Tracking and Particles
-
-This tutorial by [Kaiho Nishimura- touchdesigner tutorial - Particle tracking the mouse](https://youtu.be/dYyzK7_rLJg) looks at designing a particle cloud that can then be manipulated with mouse tracking.
-
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/dYyzK7_rLJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 
 ## Instancing 
 
