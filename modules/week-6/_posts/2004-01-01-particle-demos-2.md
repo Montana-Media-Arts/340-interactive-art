@@ -49,4 +49,4 @@ This tutorial takes particles to the next level by building them along a path.  
 
 - [Article- DAILY DRAWINGS, ALWAYS REAL-TIME WITH @SMOOTH_ISFAST](https://derivative.ca/community-post/daily-drawings-always-real-time-smoothisfast/62998)
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://player.vimeo.com/video/339253469?color=ffffff" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><iframe width="560" height="315" src="https://www.youtube.com/embed/FBhk1_9WtUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/FBhk1_9WtUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
