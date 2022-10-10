@@ -8,15 +8,15 @@
 6: ["October 7th - October 14th", "October 14th @ 11:59 PM"]
 7: ["October 14th - October 21th", "October 21th @ 11:59 PM"]
 8: ["October 21th - October 28th", "October 28th @ 11:59 PM"]
-9: ["October 28th - November 4th", "November 4th @ 11:59 PM"]
-10: ["November 4th - November 11th", "November 11th @ 11:59 PM"]
-11: ["November 11th - November 18th", "November 18th @ 11:59 PM"]
-12: ["November 18th - December 2nd", "December 2nd @ 11:59 PM"]
+9: ["October 28th - November 9th", "November 9th @ 11:59 PM"]
+10: ["November 9th - November 16th", "November 16th @ 11:59 PM"]
+11: ["November 16th - December 5th", "December 5th @ 11:59 PM"]
+12: ["November 5th - December 13th", "December 13th @ 11:59 PM"]
 # 13: ["April 16th - April 23rd", "April 23rd @ 11:59 PM"]
 # 16: ["April 27th - May 1st", "Final Due - May 8th @ 11:59 PM"]
 
-final_proposal: "April 11th @ 11:59 PM"
+final_proposal: "November 16th @ 11:59 PM"
 # 1st_draft: "---"
-final_submission: "May 8th @ 11:59 PM (NO LATE WORK ACCEPTED)"
+final_submission: "December 5th @ 11:59 PM (NO LATE WORK ACCEPTED)"
 # show: "Wednesday, May 8th @ 8pm on KBGA-89.9FM"
-final_response: "Sunday, December 12th @ 11:59 PM"
+final_response: "Monday, December 12th @ 11:59 PM"
