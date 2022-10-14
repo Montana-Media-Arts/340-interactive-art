@@ -1,0 +1,47 @@
+---
+title: openCV
+module: 8
+jotted: false
+toc: true
+math: false
+topic: OpenCV
+---
+
+[OpenCV](https://opencv.org) is an "open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in" software.
+
+TD comes with OpenCV built-in via the Python language. OpenCV does represent a significant world of possibilities. However, the move to using Python also represents a significant jump in technical needs. The following tutorial is optional for this reason, however, I do suggest you attempt to get into this world.
+
+
+## Python in TD
+
+The tutorial lower down on this page will get into using Python in TD. So first, you should learn how to use Python, the following are resources to get you up and running with Python in TD.
+
+- [Derivative Intro to Python Tutorial](https://docs.derivative.ca/Introduction_to_Python_Tutorial)
+
+- [Matthew Ragan resources for learning Python in TouchDesigner](https://matthewragan.com/teaching-resources/touchdesigner/python-in-touchdesigner/)
+	- [Learning how to Print](https://matthewragan.com/2015/10/14/python-in-touchdesigner-printing-touchdesigner/)
+	- [What are Variables](https://matthewragan.com/2015/10/16/python-in-touchdesigner-variables-touchdesigner/)
+	- [Writing References in Python](https://matthewragan.com/2015/10/19/python-in-touchdesigner-writing-python-references-touchdesigner/)
+	- [Logic](https://matthewragan.com/2015/10/22/python-in-touchdesigner-logic-touchdesigner/)
+	- [Data Structures - Lists](https://matthewragan.com/2015/10/26/python-in-touchdesigner-data-strucutres-lists-touchdesigner/)
+	- [Data Structures - Dictionaries](https://matthewragan.com/2015/10/28/python-in-touchdesigner-data-strucutres-dictionaries-touchdesigner/)
+	- [Intro to Functions](https://matthewragan.com/2015/10/30/python-in-touchdesigner-intro-to-functions-touchdesigner/)
+	- [Executes](https://matthewragan.com/2016/07/06/python-in-touchdesigner-executes-touchdesigner/)
+	- [OP Class](https://matthewragan.com/2016/07/06/python-in-touchdesigner-op-class-touchdesigner/)
+	- [FOR Loops](https://matthewragan.com/2016/07/06/python-in-touchdesigner-for-loop-touchdesigner/)
+	- [Modules](https://matthewragan.com/2016/07/12/python-in-touchdesigner-modules-touchdesigner/)
+	- [Extensions](https://matthewragan.com/2016/07/14/python-in-touchdesigner-extensions-touchdesigner/)
+
+
+## Easy Feature Tracking with Script TOP and OpenCV in TouchDesigner - Tutorial
+
+The following tutorial will get you up and running with OpenCV in TD.
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1Uw2PWTR_XM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Go Further
+
+To go further, you can learn more about OpenCV at the following links.
+
+- [OpenCV: OpenCV-Python Tutorials](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
+- [YouTube - LEARN OPENCV in 3 HOURS with Python](https://www.youtube.com/watch?v=WQeoO7MI0Bs)
