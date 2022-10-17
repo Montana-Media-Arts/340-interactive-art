@@ -12,7 +12,10 @@ Please watch the critique video from your daily sketch journals (demo reels). 
 - _Available through both Moodle and YouTube_
 
 <!-- Fall  -->
-- YouTube: [
+- YouTube: 
+
+<!--
+[
 https://youtu.be/AQVJ3AY02wc](
 https://youtu.be/AQVJ3AY02wc)
 
