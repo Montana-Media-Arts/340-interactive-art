@@ -33,7 +33,7 @@ The following pages contain possible suggested tutorials that you could choose t
 	3. What problems did you run into this week, and how did you solve them? 
 	4. What's next? How would you push this further?
 	5. How was your experience working in TouchDesigner this week?  How would you approach this project differently?
-4. Include a like to the tutorial you used or that inspired you
+4. Include links to the tutorial you used or that inspired you
 
 ## Upload
 
