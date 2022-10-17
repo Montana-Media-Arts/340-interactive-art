@@ -38,3 +38,9 @@ We ask that you then submit a response with at least two paragraphs discussing t
 
 1. Your reaction to our critique of your work, as well as a discussion about how you view your work after also watching everyone else’s.
 2. Your reaction to the work of the class. What are you noticing as emergent themes, and what are you liking and not liking?
+
+##Relection Submission
+
+Upload your submission reflection
+
+-  [Mid-Term Critque and Reflection Submission](https://moodle.umt.edu/mod/hsuforum/view.php?id=2299991)
