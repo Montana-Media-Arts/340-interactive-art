@@ -43,7 +43,7 @@ Final Project Proposal Deadline: **{{site.data.dates.final_proposal}}**.
 
 Just as with the demo reels, the instruction team will meet to film a group critique of these final projects. We will then post this for your review and reflection on. The final project critique reflections will be due: {{site.data.dates.final_response}}	.
 
-## Upload Project Proposal
+### Upload Project Proposal
 
--[Final Project Proposal](https://moodle.umt.edu/mod/hsuforum/view.php?id=2299992)
+-[Final Project Proposal Submission](https://moodle.umt.edu/mod/hsuforum/view.php?id=2299992)
 
