@@ -14,7 +14,9 @@ Homework Due: {{ site.data.dates[page.module][1] }}
 <br />
 
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/16JADX43gzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<!--<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/16JADX43gzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+-->
 
 Please watch the entire group critique video. When you are done, you are expected to write a reflection paper, which you will submit as a PDF to Moodle.
 
