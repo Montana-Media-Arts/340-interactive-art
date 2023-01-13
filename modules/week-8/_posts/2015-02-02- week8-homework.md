@@ -46,4 +46,4 @@ You will upload your videos and images to the homework submission forum. You sho
 
 Please submit all delieverables to the homework submission forum.
 
-- [Week 8-Computer Vision- HW Submission Forum](https://moodle.umt.edu/mod/hsuforum/view.php?id=2354195&forceview=1)
+- [Week 8-Computer Vision- HW Submission Forum](https://moodle.umt.edu/mod/hsuforum/view.php?id=2447345)
