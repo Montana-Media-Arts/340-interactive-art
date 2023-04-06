@@ -13,7 +13,7 @@ Please watch the critique video from your daily sketch journals (demo reels). 
 
 <!-- Fall  -->
 - YouTube: 
-<div class="embed-responsive embed-responsive-16by9"></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/bg7QjzA6-fE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <!--
 [
