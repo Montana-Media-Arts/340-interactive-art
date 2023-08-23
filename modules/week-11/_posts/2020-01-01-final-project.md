@@ -35,6 +35,8 @@ Please submit your final project as a new forum post to the Final Project Submis
 
 - [Final Project Submission Forum on Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=2447350)
 
+  Note- Do not use copyrighted material, including music.  You can find royalty-free music from [Pixabay](https://pixabay.com/music/) or any other royalty-free sites.
+
 ### Deliverables
 
 To submit this work, you will upload;
