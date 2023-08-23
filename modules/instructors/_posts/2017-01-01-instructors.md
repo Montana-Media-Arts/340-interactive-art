@@ -68,5 +68,5 @@ Please contact Dr. Musick with any problems.
 I will offer virtual/Zoom-based office hours.
 
 **Zoom-Based Office Hours**
- - Virtual via Zoom Link: [Office Hours Every Friday from 11 am - 1 pm](https://umontana.zoom.us/j/94133489843)
+ - Virtual via Zoom Link: [Office Hours Every Tuesday from 11 am - 1 pm](https://umontana.zoom.us/j/92101322348)
   - Virtual appointment: Email me to schedule zoom meetings.
