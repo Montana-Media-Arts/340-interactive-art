@@ -33,7 +33,7 @@ You are welcome to pursue whatever project and topic is most interesting to you 
 
 Please submit your final project as a new forum post to the Final Project Submission Forum on Moodle.
 
-- [Final Project Submission Forum on Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=2447350)
+- [Final Project Submission Forum on Moodle](https://moodle.umt.edu/mod/hsuforum/view.php?id=2636658)
 
   Note- Do not use copyrighted material, including music.  You can find royalty-free music from [Pixabay](https://pixabay.com/music/) or any other royalty-free sites.
 
