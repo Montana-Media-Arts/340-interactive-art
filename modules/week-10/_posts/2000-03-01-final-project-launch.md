@@ -45,5 +45,5 @@ Just as with the demo reels, the instruction team will meet to film a group crit
 
 ### Upload Project Proposal
 
--[Final Project Proposal Submission](https://moodle.umt.edu/mod/hsuforum/view.php?id=2447348)
+-[Final Project Proposal Submission](https://moodle.umt.edu/mod/hsuforum/view.php?id=2636656)
 
