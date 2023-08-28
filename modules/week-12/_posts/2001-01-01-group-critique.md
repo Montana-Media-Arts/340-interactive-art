@@ -35,3 +35,9 @@ Please watch the entire group critique video. When you are done, you are expecte
 > 2. A critique of your work in relation to the whole of everyone else's work.
 > 3. Your reaction to the rest of the classes final projects
 > 4. And finally, your reflections about your individual experience in the class. What did you take away, how will this effect your creative practice in the future, and what do you wish we did differently?
+
+
+Please submit Final Project Reflection in the homework submission forum.
+
+- [Week 12- Course and Final Project Reflection Paper](https://moodle.umt.edu/mod/assign/view.php?id=2636659)
+
