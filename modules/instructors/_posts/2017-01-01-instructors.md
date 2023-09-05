@@ -25,7 +25,7 @@ Tina is an adjunct professor and recent MFA graduate of SVMA that specializes in
 >
 >[Tinamdigitalart.com](https://www.tinamdigitalart.com/)
 
-## Teaching Assistant - Charlie Apple
+<!--## Teaching Assistant - Charlie Apple
 
 We will have a Teaching Assistant to assist you throughout this semester.
 
@@ -44,7 +44,7 @@ Charlie is an MFA student in his second year of study with the department. Charl
 > Charlie Apple is a multimedia artist, music producer and designer based in Missoula, MT.  While earning his BA in Media Arts at the University of Montana, he produced multiple albums and experiential live shows along with providing original scores for dance and theatre.  His current research is focused on data visualization, Experimental Film and virtual live performance.
 >
 >
-> [charlieapplemusic.com](www.charlieapplemusic.com)
+> [charlieapplemusic.com](www.charlieapplemusic.com)-->
 
 
 
@@ -68,5 +68,5 @@ Please contact Dr. Musick with any problems.
 I will offer virtual/Zoom-based office hours.
 
 **Zoom-Based Office Hours**
- - Virtual via Zoom Link: [Office Hours Every Tuesday from 11 am - 1 pm](https://umontana.zoom.us/j/92101322348)
+ - Virtual via Zoom Link: [Office Hours Every Tuesday from 11 am - 1 pm](https://umontana.zoom.us/j/91945203286)
   - Virtual appointment: Email me to schedule zoom meetings.
