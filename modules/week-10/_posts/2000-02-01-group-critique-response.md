@@ -4,7 +4,7 @@ module: 10
 toc: false
 topic: Group Critique Response
 ---
-
+Group Critique Responses are Due December 1st 2023 at 11:59 pm.
 
 
 Please watch the critique video from your daily sketch journals (demo reels). 
