@@ -25,6 +25,10 @@ Spring 2021 - Final Project Critique: https://youtu.be/5XvxTT69Tmg
 
 -->
 
+[MART 340 Final Critique Video via Zoom ](https://umontana.zoom.us/rec/share/AyHZXQF7rjqKzaposZLgoRK894GUbMH6lz12EyoXrsJTGfWOC-iCvk_kHKH9sxpZ.uOlyozvgMAX-i_OC?startTime=1702347343000)
+
+
+
 Please watch the entire group critique video. When you are done, you are expected to write a reflection paper, which you will submit as a PDF to Moodle.
 
 > Please write a 1-3 page reflection paper to close out the semester. Please save these files as PDFs and upload to this assignment module.
