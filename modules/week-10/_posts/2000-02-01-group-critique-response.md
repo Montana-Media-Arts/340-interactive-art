@@ -52,4 +52,4 @@ We ask that you then submit a response with at least two paragraphs discussing t
 
 Upload your submission reflection
 
--  [Daily Sketch Practice- Mid-Term Critique and Reflection](https://moodle.umt.edu/mod/hsuforum/view.php?id=2636655)
+-  [Daily Sketch Practice- Mid-Term Critique and Reflection](https://moodle.umt.edu/mod/hsuforum/view.php?id=2774173)
