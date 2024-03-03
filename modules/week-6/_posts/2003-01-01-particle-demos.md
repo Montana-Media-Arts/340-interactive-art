@@ -15,9 +15,11 @@ Let's apply some of previous concepts to the particles.
 
 ## Audio Reactivity and Particles
 
+This tutorial may be a bit behind the times, but go ahead and give it a shot if you're curious. 
 In this by [bileam tschepe (elekktronaut) - Audioreactive Particle Cloud – TouchDesigner Tutorial 10](https://youtu.be/M8X_FFB-ikQ) tutorial work through designing a particle cloud that then morphs and dances with music or sound. 
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/M8X_FFB-ikQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Alternatively, here's a more up-to-date option for you to explore.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SSSSbq2YZcA?si=jJeensxAuZSDZhwp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Mouse Tracking and Particles
