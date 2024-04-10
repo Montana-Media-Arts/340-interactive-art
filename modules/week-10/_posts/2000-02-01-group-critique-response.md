@@ -14,6 +14,9 @@ Please watch the critique video from your daily sketch journals (demo reels). 
 <!-- Fall  -->
 - YouTube: 
 
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/Be5hkLzzzRM?si=scuytddCxqRvSIQu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+
 <!--<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://youtu.be/Eu51RGba4sE?si=-bdo1RYpgdsS7WS7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div> -->
 
 <!-- Spring 2023
