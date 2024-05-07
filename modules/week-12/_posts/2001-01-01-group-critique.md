@@ -9,7 +9,9 @@ topic: Group Critique
 
 Active: {{ site.data.dates[page.module][0] }}
 
-Homework Due: {{ site.data.dates[page.module][1] }}
+Homework Due: May 12 11:59pm
+
+<!--{{ site.data.dates[page.module][1] }} -->
 
 <br />
 
