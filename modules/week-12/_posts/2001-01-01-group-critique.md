@@ -33,6 +33,8 @@ Spring 2021 - Final Project Critique: https://youtu.be/5XvxTT69Tmg
 
 Please watch the entire group critique video. When you are done, you are expected to write a reflection paper, which you will submit as a PDF to Moodle.
 
+<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/GTm9MI09rcI?si=g15hpnm1taOBxPeR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 > Please write a 1-3 page reflection paper to close out the semester. Please save these files as PDFs and upload to this assignment module.
 >
 > The reflection paper should include the following:
